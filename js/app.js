@@ -10,7 +10,7 @@ console.log("Ciclo For");
 }*/
 
 //ciclo con una condizionale nella esecuzione
-const n = 15;
+const n = 100;
 for (let i = 1; i <= n; i++) {
   //SE i è % 3 con resto 0 E i % 5 con reto 0
   if(i % 3 === 0 && i % 5 === 0){
